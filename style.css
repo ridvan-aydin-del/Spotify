@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kanit', sans-serif;
+}
+.left-site{
+    width: 250px;
+    height: max-content;
+    border: 1px solid red;
+    background-color: black;
+}
+.spotify-img-div{
+    padding: 20px;
+}
+.spotify-img{
+    width: 130px;
+    height: 40px;
+}
+.house-icon{
+    padding: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.house-icon-a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 14px;
+}
+.search-icon{
+    padding: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.search-icon-a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 14px;
+}
+.books-icon{
+    padding: 20px;
+    padding-top: 0px;
+}
+.books-icon-a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 14px;
+}
+.two-icon{
+    padding: 20px;
+    padding-top: 0px;
+}
+.first-icon-a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 16px;
+}
+.second-icon-a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 16px;
+}
+.icon-playlist-hr{
+    width: 80%;
+    height: 0px;
+    border: 1px solid rgb(231, 232, 236);
+    margin-left: 20px;
+}
+.playlist{
+    margin: 10px;
+}
+.playlist-1-a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 14px;
+}
